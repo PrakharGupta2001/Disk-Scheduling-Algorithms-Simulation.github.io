@@ -8,6 +8,9 @@ SCAN (Elevator algorithm)
 C-SCAN (Circular SCAN)
 LOOK
 
+## Host Link
+https://prakhargupta2001.github.io/Disk-Scheduling-Algorithms-Simulation.github.io/
+
 ## Installation
 To run this simulation, you need a web browser that supports HTML, CSS, and JavaScript. Simply download or clone this repository to your local machine and open the index.html file in your web browser.
 
